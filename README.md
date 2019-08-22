@@ -52,7 +52,7 @@ $ npm start
 
 ## Documentation
 
-### Books Routes
+### Outlet Routes
 
 #### GET Request
 
@@ -66,15 +66,15 @@ $ npm start
 
 #### POST Request
 
- - "/main/product" => Inserting a new bike to bikes tables. Data required = name, type, branch, price.
+ - "/main/product" => Inserting a new products to outlet tables.
 
 #### PATCH Request
 
- - "/main/product/update/{productID}" => Updating a existing product in tables. Data required = ID and parameter that needs to update.
-
+ - "/main/product/update/{productID}" => Updating a existing product in tables outlet. 
+ 
 #### DELETE Request
 
- - "/main/product/delete/{productID}" => Deleting a existing product in tables. Data required = productID.
+ - "/main/product/delete/{productID}" => Deleting a existing product in tables.
 
 
 ### License

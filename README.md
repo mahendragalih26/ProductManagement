@@ -15,7 +15,6 @@
 * [Prerequiste](#prerequiste)
 * [Installation](#installation)
 * [Documentation](#documentation)
-* [Optional](#optional)
 * [License](#license)
 
 ## Prerequiste
@@ -76,10 +75,6 @@ $ npm start
 #### DELETE Request
 
  - "/main/product/delete/{productID}" => Deleting a existing product in tables. Data required = productID.
-
-## Optional
-
-For demo, use this link : https://ancient-sea-92924.herokuapp.com/
 
 
 ### License

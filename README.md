@@ -58,7 +58,7 @@ $ npm start
 	- page -> page to display (default 1),
 	- limit -> number of product displayed in a page (default 5).
 
- - "/main/product/{id}" => display one product with the id specified by id parameter.
+ - "/main/product?field={id}&search={2}" => display one product with the id specified by id parameter.
  - "/main/product?field={name}" => display product specified by name parameter.
  - "/main/product?search={sawi}&sort={branch}" => display product specified by search and sort parameter.
 

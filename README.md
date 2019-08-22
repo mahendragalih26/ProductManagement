@@ -59,7 +59,7 @@ $ npm start
 
  - "/product" => display all product, with default pagination {page:1, limit:5}. Query params:
 	- page -> page to display (default 1),
-	- limit -> number of bikes displayed in a page (default 5).
+	- limit -> number of product displayed in a page (default 5).
 
  - "/main/product/{id}" => display one product with the id specified by id parameter.
  - "/main/product?field={name}" => display product specified by name parameter.

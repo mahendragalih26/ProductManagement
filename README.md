@@ -52,8 +52,6 @@ $ npm start
 
 ## Documentation
 
-### Outlet Routes
-
 #### GET Request
 
  - "/product" => display all product, with default pagination {page:1, limit:5}. Query params:
